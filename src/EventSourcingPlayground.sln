@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29021.104
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcingPlayground.Domain", "EventSourcingPlayground.Domain\EventSourcingPlayground.Domain.csproj", "{1969B8E2-F1F3-4EDC-85C5-926C67045C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcingPlayground.Domain", "EventSourcingPlayground.Domain\EventSourcingPlayground.Domain.csproj", "{1969B8E2-F1F3-4EDC-85C5-926C67045C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcingPlayground.Sdk", "EventSourcingPlayground.Sdk\EventSourcingPlayground.Sdk.csproj", "{D504730A-A08A-49BD-ABD2-BC34421C6DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcingPlayground.Sdk", "EventSourcingPlayground.Sdk\EventSourcingPlayground.Sdk.csproj", "{D504730A-A08A-49BD-ABD2-BC34421C6DF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
